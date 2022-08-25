@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Micro Age</string>
+    <string name="countdown_name">Age Calculator</string>
+    <string name="welome_screen_background">welcome screen background</string>
+    <string name="black_bg_for_opacity">black bg for opacity</string>
+    <string name="countdown">Countdown</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="name">Name</string>
+    <string name="next">Next</string>
+    <string name="primary_color_background_for_action_bar">primary color background for action bar</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="select_date">Select Date</string>
+    <string name="years">Years</string>
+    <string name="months">Months</string>
+    <string name="days">Days</string>
+    <string name="total_years">Total Years:</string>
+    <string name="total_months">Total Months:</string>
+    <string name="total_weeks">Total Weeks:</string>
+    <string name="total_days">Total Days:</string>
+    <string name="total_hour">Total Hour:</string>
+    <string name="total_minutes">Total Minutes:</string>
+    <string name="total_seconds">Total Seconds:</string>
+    <string name="select_a_date">Select a Date:</string>
+    <string name="micro_age">Micro age</string>
+</resources>
